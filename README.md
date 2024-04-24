@@ -1,0 +1,2 @@
+# counter
+Linux CLI counter.
